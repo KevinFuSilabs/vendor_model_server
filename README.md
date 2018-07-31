@@ -1,5 +1,7 @@
 Tested SDK: Bluetooth Mesh 1.3.0
 
+Clone: git clone --recuresive https://github.com/KevinFuSilabs/vendor_model_server.git
+
 Vendor ID: 0x1111
 
 Models
